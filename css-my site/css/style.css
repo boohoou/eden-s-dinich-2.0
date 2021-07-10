@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 562.5%;
+}
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+div {
+  background-color: #FAFFB8;
+  }
+.bottom-cloud {
+    position: absolute;
+  right: 630px;
+  }
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 150px}
+.middle-container {
+}
+.bottom-container {
+  padding-top: 10px;
+  margin: 0;
+  background-color:  #FAFFB8;
+}
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.potato-img {
+  width: 38%;
+  float: left;
+}
+.potato2-img {
+  width: 38%;
+  float: left;
+}
+
+
+.circle {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #7C83FD;
+}
+hr {
+  background-color: #7C83FD;
+  border-style:none;
+  height: 3px;
+width: 80% }
+CSS Button Generator
+Settings
++ Font / Text
++ Box
++ Border
++ Background
+
+background:gradientsolid
+start color:
+#3498db
+end color:
+#72b6e0
++ Hover
+Button preview
+contact me
+Copy the code
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #72b6e0);
+  background-image: -moz-linear-gradient(top, #3498db, #72b6e0);
+  background-image: -ms-linear-gradient(top, #3498db, #72b6e0);
+  background-image: -o-linear-gradient(top, #3498db, #72b6e0);
+  background-image: linear-gradient(to bottom, #3498db, #72b6e0);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #5e215e;
+  font-size: 20px;
+  background: #93C4FF;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #85a4b8;
+  text-decoration: none;
+}
